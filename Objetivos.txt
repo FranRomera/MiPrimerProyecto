@@ -1,4 +1,4 @@
 1. Dominar las tecnologías esenciales del desarrollo web
-Quiero aprender a manejar a fondo tecnologías fundamentales como HTML, CSS y JavaScript, así como frameworks y bibliotecas modernas como React o Angular.
+2. Convertirme en un experto en desarrollo backend
 
 
